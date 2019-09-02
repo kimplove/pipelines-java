@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/devsmartofficeskt/cicdtest/_apis/build/status/kimplove.pipelines-java?branchName=master)](https://dev.azure.com/devsmartofficeskt/cicdtest/_build/latest?definitionId=3&branchName=master)
 
 # Contributing
 
